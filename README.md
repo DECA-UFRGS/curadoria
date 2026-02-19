@@ -28,6 +28,13 @@ Eu (Henrique Becker, coordenador do projeto) pessoalmente recomendo:
 * Ir atrás de projetos grandes que você faça uso diretamente ou indiretamente: linguagens de programação, distribuições Linux, IDEs/Editores, grandes bibliotecas usadas em trabalhos de aula ou em emprego/estágio/bolsa. Esses projetos sempre costumam ter pequenos problemas a resolver, tem mais capacidade de dar suporte as suas primeiras tentativas, e é mais fácil contribuir para algo que você já tenha alguma conexão ou entendimento.
 * Lembrar que o GitHub não é o único site com projetos de código aberto, existem também, por exemplo: https://bitbucket.org , https://codeberg.org/ , https://forgejo.org/ , and https://code.launchpad.net/ .
 
+### Projetos específicos recomendados
+
+* https://github.com/lichess-org -- Pelo Prof. Frederico Messa
+* https://github.com/JuliaLang/julia -- Pelo Prof. Henrique Becker
+* https://github.com/henriquebecker91/JuMP.jl -- Pelo Prof. Henrique Becker
+
+
 ## Como é o processo de contribuição?
 
 Um bom vídeo em português que dá dicas gerais de contribuição e mostra um passo-a-passo de como fazer Fork+PR em GitHub é: https://www.youtube.com/watch?v=CVuAd_-Phow (assume conhecimento básico de Git). Uma boa explicação textual em inglês pode ser encontrada aqui: https://github.com/firstcontributions/first-contributions
