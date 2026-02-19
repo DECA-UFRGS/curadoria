@@ -4,7 +4,7 @@ Repositório principal do projeto de extensão Desenvolvimento Extensionista de 
 
 ## Compartilhamento de experiências
 
-* Henrique Becker -- Coordenador do Projeto -- https://github.com/DECA-UFRGS/curadoria/experiences/henrique_becker.md
+* Henrique Becker -- Coordenador do Projeto -- https://github.com/DECA-UFRGS/curadoria/blob/main/experiences/henrique_becker.md
 
 ## Diretizes gerais para participar do DECA
 
